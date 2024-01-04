@@ -1,9 +1,9 @@
 {
   "https://4everland.io": {
     "metadata": {
-      "time": "2024-01-03T08:21:53.550421689Z",
+      "time": "2024-01-04T10:42:19.897674362Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://4everland.io"
     },
     "results": {
@@ -26,9 +26,9 @@
   },
   "https://alexdav.id": {
     "metadata": {
-      "time": "2024-01-03T08:21:52.711899723Z",
+      "time": "2024-01-04T10:42:31.247313389Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://alexdav.id"
     },
     "results": {
@@ -81,9 +81,9 @@
   },
   "https://aragon.ventures": {
     "metadata": {
-      "time": "2024-01-03T08:21:56.757996261Z",
+      "time": "2024-01-04T10:42:18.722997998Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://aragon.ventures"
     },
     "results": {
@@ -106,9 +106,9 @@
   },
   "https://astyanax.io": {
     "metadata": {
-      "time": "2024-01-03T08:21:53.177960043Z",
+      "time": "2024-01-04T10:42:21.728190473Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://astyanax.io"
     },
     "results": {
@@ -131,9 +131,9 @@
   },
   "https://cdn.cwinfo.net": {
     "metadata": {
-      "time": "2024-01-03T08:21:53.26089742Z",
+      "time": "2024-01-04T10:42:25.481773614Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://cdn.cwinfo.net"
     },
     "results": {
@@ -156,9 +156,9 @@
   },
   "https://cf-ipfs.com": {
     "metadata": {
-      "time": "2024-01-03T08:21:53.45661619Z",
+      "time": "2024-01-04T10:42:19.350074745Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://cf-ipfs.com"
     },
     "results": {
@@ -181,9 +181,9 @@
   },
   "https://cloudflare-ipfs.com": {
     "metadata": {
-      "time": "2024-01-03T08:21:54.193103542Z",
+      "time": "2024-01-04T10:42:31.165443443Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://cloudflare-ipfs.com"
     },
     "results": {
@@ -206,9 +206,9 @@
   },
   "https://dweb.eu.org": {
     "metadata": {
-      "time": "2024-01-03T08:21:48.714254214Z",
+      "time": "2024-01-04T10:42:19.125209771Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://dweb.eu.org"
     },
     "results": {
@@ -231,9 +231,9 @@
   },
   "https://dweb.link": {
     "metadata": {
-      "time": "2024-01-03T08:21:52.944270624Z",
+      "time": "2024-01-04T10:42:20.40409442Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://dweb.link"
     },
     "results": {
@@ -256,9 +256,9 @@
   },
   "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion": {
     "metadata": {
-      "time": "2024-01-03T08:21:49.252241285Z",
+      "time": "2024-01-04T10:42:19.094919648Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion"
     },
     "results": {
@@ -311,15 +311,15 @@
   },
   "https://gateway.ipfs.io": {
     "metadata": {
-      "time": "2024-01-03T08:24:33.55182338Z",
+      "time": "2024-01-04T10:47:59.260796125Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://gateway.ipfs.io"
     },
     "results": {
       "DNSLink": {
         "pass": 0,
-        "fail": 1,
+        "fail": 2,
         "skip": 0
       },
       "CORS": {
@@ -328,17 +328,47 @@
         "skip": 0
       },
       "JSON-CBOR": {
-        "pass": 2,
+        "pass": 3,
         "fail": 2,
+        "skip": 0
+      },
+      "IPNS": {
+        "pass": 1,
+        "fail": 3,
+        "skip": 0
+      },
+      "Others": {
+        "pass": 2,
+        "fail": 4,
+        "skip": 0
+      },
+      "Block-CAR": {
+        "pass": 9,
+        "fail": 0,
+        "skip": 0
+      },
+      "Tar": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "UnixFS": {
+        "pass": 1,
+        "fail": 2,
+        "skip": 0
+      },
+      "Subdomains": {
+        "pass": 0,
+        "fail": 3,
         "skip": 0
       }
     }
   },
   "https://gateway.originprotocol.com": {
     "metadata": {
-      "time": "2024-01-03T08:22:04.76634069Z",
+      "time": "2024-01-04T10:42:35.355525411Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://gateway.originprotocol.com"
     },
     "results": {
@@ -391,9 +421,9 @@
   },
   "https://gateway.pinata.cloud": {
     "metadata": {
-      "time": "2024-01-03T08:21:57.672814289Z",
+      "time": "2024-01-04T10:42:27.914566463Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://gateway.pinata.cloud"
     },
     "results": {
@@ -416,9 +446,9 @@
   },
   "https://gravity.jup.io": {
     "metadata": {
-      "time": "2024-01-03T08:22:30.927514613Z",
+      "time": "2024-01-04T10:42:41.037065905Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://gravity.jup.io"
     },
     "results": {
@@ -471,9 +501,9 @@
   },
   "https://gw3.io": {
     "metadata": {
-      "time": "2024-01-03T08:23:56.456828582Z",
+      "time": "2024-01-04T10:42:49.902465831Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://gw3.io"
     },
     "results": {
@@ -526,9 +556,9 @@
   },
   "https://hashnews.k1ic.com": {
     "metadata": {
-      "time": "2024-01-03T08:24:27.058966327Z",
+      "time": "2024-01-04T10:44:35.038099721Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://hashnews.k1ic.com"
     },
     "results": {
@@ -581,9 +611,9 @@
   },
   "https://hub.textile.io": {
     "metadata": {
-      "time": "2024-01-03T08:22:52.747632128Z",
+      "time": "2024-01-04T10:43:11.15753971Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://hub.textile.io"
     },
     "results": {
@@ -606,9 +636,9 @@
   },
   "https://ipfs.1-2.dev": {
     "metadata": {
-      "time": "2024-01-03T08:22:52.909782517Z",
+      "time": "2024-01-04T10:43:23.277454169Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.1-2.dev"
     },
     "results": {
@@ -631,9 +661,9 @@
   },
   "https://ipfs.alloyxuast.tk": {
     "metadata": {
-      "time": "2024-01-03T08:22:56.392378689Z",
+      "time": "2024-01-04T10:43:17.188358041Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.alloyxuast.tk"
     },
     "results": {
@@ -686,9 +716,9 @@
   },
   "https://ipfs.best-practice.se": {
     "metadata": {
-      "time": "2024-01-03T08:22:57.67123783Z",
+      "time": "2024-01-04T10:43:26.256865214Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.best-practice.se"
     },
     "results": {
@@ -711,9 +741,9 @@
   },
   "https://ipfs.busy.org": {
     "metadata": {
-      "time": "2024-01-03T08:23:13.534550045Z",
+      "time": "2024-01-04T10:43:21.851237394Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.busy.org"
     },
     "results": {
@@ -766,9 +796,9 @@
   },
   "https://ipfs.chisdealhd.co.uk": {
     "metadata": {
-      "time": "2024-01-03T08:22:48.671410873Z",
+      "time": "2024-01-04T10:43:28.004756912Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.chisdealhd.co.uk"
     },
     "results": {
@@ -791,9 +821,9 @@
   },
   "https://ipfs.drink.cafe": {
     "metadata": {
-      "time": "2024-01-03T08:23:10.846344745Z",
+      "time": "2024-01-04T10:43:51.206625693Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.drink.cafe"
     },
     "results": {
@@ -846,15 +876,15 @@
   },
   "https://ipfs.eth.aragon.network": {
     "metadata": {
-      "time": "2024-01-03T08:28:24.412186739Z",
+      "time": "2024-01-04T10:48:13.446297169Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.eth.aragon.network"
     },
     "results": {
       "DNSLink": {
         "pass": 0,
-        "fail": 1,
+        "fail": 2,
         "skip": 0
       },
       "CORS": {
@@ -869,26 +899,41 @@
       },
       "IPNS": {
         "pass": 0,
-        "fail": 2,
+        "fail": 3,
         "skip": 0
       },
       "Others": {
-        "pass": 0,
-        "fail": 1,
+        "pass": 3,
+        "fail": 3,
         "skip": 0
       },
       "Block-CAR": {
-        "pass": 0,
+        "pass": 1,
         "fail": 1,
+        "skip": 0
+      },
+      "Tar": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "UnixFS": {
+        "pass": 2,
+        "fail": 1,
+        "skip": 0
+      },
+      "Subdomains": {
+        "pass": 0,
+        "fail": 3,
         "skip": 0
       }
     }
   },
   "https://ipfs.fleek.co": {
     "metadata": {
-      "time": "2024-01-03T08:23:35.136101235Z",
+      "time": "2024-01-04T10:44:07.021192313Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.fleek.co"
     },
     "results": {
@@ -911,9 +956,9 @@
   },
   "https://ipfs.fooock.com": {
     "metadata": {
-      "time": "2024-01-03T08:24:33.517049214Z",
+      "time": "2024-01-04T10:46:23.189718708Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.fooock.com"
     },
     "results": {
@@ -966,9 +1011,9 @@
   },
   "https://ipfs.funnychain.co": {
     "metadata": {
-      "time": "2024-01-03T08:23:44.34555019Z",
+      "time": "2024-01-04T10:44:24.828003561Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.funnychain.co"
     },
     "results": {
@@ -991,9 +1036,9 @@
   },
   "https://ipfs-gateway.cloud": {
     "metadata": {
-      "time": "2024-01-03T08:27:04.212401789Z",
+      "time": "2024-01-04T10:48:06.725763668Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs-gateway.cloud"
     },
     "results": {
@@ -1016,9 +1061,9 @@
   },
   "http://ipfs.genenetwork.org": {
     "metadata": {
-      "time": "2024-01-03T08:21:57.00745604Z",
+      "time": "2024-01-04T10:42:20.579570884Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "http://ipfs.genenetwork.org"
     },
     "results": {
@@ -1041,9 +1086,9 @@
   },
   "https://ipfs.greyh.at": {
     "metadata": {
-      "time": "2024-01-03T08:24:02.644246591Z",
+      "time": "2024-01-04T10:44:23.815960065Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.greyh.at"
     },
     "results": {
@@ -1066,9 +1111,9 @@
   },
   "https://ipfs.ink": {
     "metadata": {
-      "time": "2024-01-03T08:23:58.859639683Z",
+      "time": "2024-01-04T10:44:23.065340008Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.ink"
     },
     "results": {
@@ -1089,11 +1134,66 @@
       }
     }
   },
+  "https://ipfs.io": {
+    "metadata": {
+      "time": "2024-01-04T10:51:43.57395617Z",
+      "version": "v0.4.2",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
+      "gateway_url": "https://ipfs.io"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 2,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 3,
+        "fail": 2,
+        "skip": 0
+      },
+      "IPNS": {
+        "pass": 1,
+        "fail": 3,
+        "skip": 0
+      },
+      "Others": {
+        "pass": 2,
+        "fail": 4,
+        "skip": 0
+      },
+      "Block-CAR": {
+        "pass": 9,
+        "fail": 0,
+        "skip": 0
+      },
+      "Tar": {
+        "pass": 1,
+        "fail": 0,
+        "skip": 0
+      },
+      "UnixFS": {
+        "pass": 1,
+        "fail": 2,
+        "skip": 0
+      },
+      "Subdomains": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
   "https://ipfs.jpu.jp": {
     "metadata": {
-      "time": "2024-01-03T08:24:31.194014901Z",
+      "time": "2024-01-04T10:45:11.198936102Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.jpu.jp"
     },
     "results": {
@@ -1116,9 +1216,9 @@
   },
   "https://ipfs.kaleido.art": {
     "metadata": {
-      "time": "2024-01-03T08:24:44.080764312Z",
+      "time": "2024-01-04T10:45:07.200873537Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.kaleido.art"
     },
     "results": {
@@ -1141,9 +1241,9 @@
   },
   "https://ipfs.kavin.rocks": {
     "metadata": {
-      "time": "2024-01-03T08:24:44.647681806Z",
+      "time": "2024-01-04T10:45:21.508214009Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.kavin.rocks"
     },
     "results": {
@@ -1166,9 +1266,9 @@
   },
   "https://ipfs.kinematiks.com": {
     "metadata": {
-      "time": "2024-01-03T08:24:43.921171926Z",
+      "time": "2024-01-04T10:45:35.424149673Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.kinematiks.com"
     },
     "results": {
@@ -1221,9 +1321,9 @@
   },
   "https://ipfs.lain.la": {
     "metadata": {
-      "time": "2024-01-03T08:26:01.80720451Z",
+      "time": "2024-01-04T10:46:21.260109998Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.lain.la"
     },
     "results": {
@@ -1276,9 +1376,9 @@
   },
   "https://ipfs.mttk.net": {
     "metadata": {
-      "time": "2024-01-03T08:25:00.985688371Z",
+      "time": "2024-01-04T10:45:36.758496211Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.mttk.net"
     },
     "results": {
@@ -1301,9 +1401,9 @@
   },
   "https://ipfs.namebase.io": {
     "metadata": {
-      "time": "2024-01-03T08:30:46.419490013Z",
+      "time": "2024-01-04T10:50:54.184258194Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.namebase.io"
     },
     "results": {
@@ -1356,9 +1456,9 @@
   },
   "https://ipfs.overpi.com": {
     "metadata": {
-      "time": "2024-01-03T08:25:11.936662023Z",
+      "time": "2024-01-04T10:45:39.945910719Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.overpi.com"
     },
     "results": {
@@ -1381,9 +1481,9 @@
   },
   "https://ipfs.runfission.com": {
     "metadata": {
-      "time": "2024-01-03T08:35:25.2523619Z",
+      "time": "2024-01-04T10:54:26.989487601Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.runfission.com"
     },
     "results": {
@@ -1436,9 +1536,9 @@
   },
   "https://ipfs.scalaproject.io": {
     "metadata": {
-      "time": "2024-01-03T08:25:33.014918407Z",
+      "time": "2024-01-04T10:46:09.190963745Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.scalaproject.io"
     },
     "results": {
@@ -1461,9 +1561,9 @@
   },
   "https://ipfs.slang.cx": {
     "metadata": {
-      "time": "2024-01-03T08:25:56.798617022Z",
+      "time": "2024-01-04T10:46:32.242456371Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.slang.cx"
     },
     "results": {
@@ -1516,9 +1616,9 @@
   },
   "https://ipfs.smartholdem.io": {
     "metadata": {
-      "time": "2024-01-03T08:25:45.146987527Z",
+      "time": "2024-01-04T10:46:37.761578101Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.smartholdem.io"
     },
     "results": {
@@ -1571,9 +1671,9 @@
   },
   "https://ipfs.soul-network.com": {
     "metadata": {
-      "time": "2024-01-03T08:25:48.261984107Z",
+      "time": "2024-01-04T10:46:48.634772163Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.soul-network.com"
     },
     "results": {
@@ -1626,9 +1726,9 @@
   },
   "https://ipfs.tayfundogdas.me": {
     "metadata": {
-      "time": "2024-01-03T08:25:59.844149845Z",
+      "time": "2024-01-04T10:46:53.61401662Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.tayfundogdas.me"
     },
     "results": {
@@ -1681,9 +1781,9 @@
   },
   "https://ipfs.telos.miami": {
     "metadata": {
-      "time": "2024-01-03T08:25:59.310282507Z",
+      "time": "2024-01-04T10:47:06.401443563Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.telos.miami"
     },
     "results": {
@@ -1736,9 +1836,9 @@
   },
   "https://ipfs.tribecap.co": {
     "metadata": {
-      "time": "2024-01-03T08:26:17.36159106Z",
+      "time": "2024-01-04T10:47:05.705078202Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.tribecap.co"
     },
     "results": {
@@ -1791,9 +1891,9 @@
   },
   "https://ipfs.trusti.id": {
     "metadata": {
-      "time": "2024-01-03T08:26:32.153004523Z",
+      "time": "2024-01-04T10:47:11.980263496Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.trusti.id"
     },
     "results": {
@@ -1816,9 +1916,9 @@
   },
   "https://ipfs.uploads.nu": {
     "metadata": {
-      "time": "2024-01-03T08:26:40.603914627Z",
+      "time": "2024-01-04T10:47:27.778429748Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.uploads.nu"
     },
     "results": {
@@ -1871,9 +1971,9 @@
   },
   "https://ipfs.yt": {
     "metadata": {
-      "time": "2024-01-03T08:26:58.971965454Z",
+      "time": "2024-01-04T10:47:40.94923587Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs.yt"
     },
     "results": {
@@ -1926,9 +2026,9 @@
   },
   "https://ipfs1.pixura.io": {
     "metadata": {
-      "time": "2024-01-03T08:27:06.961212829Z",
+      "time": "2024-01-04T10:47:58.47104818Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfs1.pixura.io"
     },
     "results": {
@@ -1981,9 +2081,9 @@
   },
   "https://ipfsgateway.makersplace.com": {
     "metadata": {
-      "time": "2024-01-03T08:27:02.019168312Z",
+      "time": "2024-01-04T10:48:08.368681333Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ipfsgateway.makersplace.com"
     },
     "results": {
@@ -2006,9 +2106,9 @@
   },
   "http://natoboram.mynetgear.com:8080": {
     "metadata": {
-      "time": "2024-01-03T08:21:59.947380205Z",
+      "time": "2024-01-04T10:42:36.869243445Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "http://natoboram.mynetgear.com:8080"
     },
     "results": {
@@ -2061,9 +2161,9 @@
   },
   "https://nftstorage.link": {
     "metadata": {
-      "time": "2024-01-03T08:27:27.818227358Z",
+      "time": "2024-01-04T10:48:24.317086925Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://nftstorage.link"
     },
     "results": {
@@ -2086,9 +2186,9 @@
   },
   "https://ninetailed.ninja": {
     "metadata": {
-      "time": "2024-01-03T08:28:00.148967105Z",
+      "time": "2024-01-04T10:49:09.296777216Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ninetailed.ninja"
     },
     "results": {
@@ -2111,9 +2211,9 @@
   },
   "https://permaweb.eu.org": {
     "metadata": {
-      "time": "2024-01-03T08:27:37.622571326Z",
+      "time": "2024-01-04T10:48:36.425776932Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://permaweb.eu.org"
     },
     "results": {
@@ -2136,9 +2236,9 @@
   },
   "https://permaweb.io": {
     "metadata": {
-      "time": "2024-01-03T08:28:24.061788638Z",
+      "time": "2024-01-04T10:49:12.112029539Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://permaweb.io"
     },
     "results": {
@@ -2191,9 +2291,9 @@
   },
   "https://ravencoinipfs-gateway.com": {
     "metadata": {
-      "time": "2024-01-03T08:28:20.866288727Z",
+      "time": "2024-01-04T10:49:54.68988615Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://ravencoinipfs-gateway.com"
     },
     "results": {
@@ -2246,9 +2346,9 @@
   },
   "https://search.ipfsgate.com": {
     "metadata": {
-      "time": "2024-01-03T08:28:16.58794843Z",
+      "time": "2024-01-04T10:49:21.797771751Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://search.ipfsgate.com"
     },
     "results": {
@@ -2301,9 +2401,9 @@
   },
   "https://storjipfs-gateway.com": {
     "metadata": {
-      "time": "2024-01-03T08:28:38.636602637Z",
+      "time": "2024-01-04T10:49:24.085480566Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://storjipfs-gateway.com"
     },
     "results": {
@@ -2326,9 +2426,9 @@
   },
   "https://storry.tv": {
     "metadata": {
-      "time": "2024-01-03T08:28:37.384918522Z",
+      "time": "2024-01-04T10:49:20.403384052Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://storry.tv"
     },
     "results": {
@@ -2351,9 +2451,9 @@
   },
   "https://tth-ipfs.com": {
     "metadata": {
-      "time": "2024-01-03T08:29:01.061532517Z",
+      "time": "2024-01-04T10:49:39.973578025Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://tth-ipfs.com"
     },
     "results": {
@@ -2376,9 +2476,9 @@
   },
   "https://via0.com": {
     "metadata": {
-      "time": "2024-01-03T08:28:55.430309937Z",
+      "time": "2024-01-04T10:50:10.093785062Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://via0.com"
     },
     "results": {
@@ -2401,9 +2501,9 @@
   },
   "https://video.oneloveipfs.com": {
     "metadata": {
-      "time": "2024-01-03T08:29:26.118064696Z",
+      "time": "2024-01-04T10:50:05.566047204Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://video.oneloveipfs.com"
     },
     "results": {
@@ -2426,9 +2526,9 @@
   },
   "https://w3s.link": {
     "metadata": {
-      "time": "2024-01-03T08:29:16.756886265Z",
+      "time": "2024-01-04T10:50:11.302197804Z",
       "version": "v0.4.2",
-      "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/7394973340",
+      "job_url": "https://github.com/istutus/public-gateway-checker/actions/runs/7408479601",
       "gateway_url": "https://w3s.link"
     },
     "results": {
